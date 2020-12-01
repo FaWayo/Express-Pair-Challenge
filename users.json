@@ -1,0 +1,17 @@
+[
+    {
+    "id":"1",
+    "name":"Denzel Boateng",
+    "age":"20",
+    "email":"denzelboateng@gmail.com",
+    "level":"200"
+    
+    },
+    {
+        "id":"2",
+        "name":"Aabid Wayo",
+        "age":"19",
+        "email":"aabid@gmail.com",
+        "level":"100"
+    }
+]
